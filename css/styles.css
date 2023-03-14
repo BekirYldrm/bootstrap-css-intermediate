@@ -168,7 +168,6 @@ p {
         position: static;
     }
     .footer-p {
-        font-size:2rem;
-        font-style :italic;
+        font-size:1.5rem;
     }
 }
